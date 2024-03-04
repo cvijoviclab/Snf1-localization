@@ -1,4 +1,4 @@
-This folder ocntians subfolders with supplementary data for the paper: 
+This folder contians subfolders with supplementary data for the paper: 
 "Exploring Carbon Source Related Localization and Phosphorylation in the Snf1/Mig1 Network using Population and Single Cell-based Approaches"
 
 it contains the following subfolders: 
